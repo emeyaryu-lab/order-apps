@@ -1,0 +1,1 @@
+{"description":"Two connected apps: customers upload orders (photo + description), the owner sees them all, records the nearest / lowest price, sets a status, and chats per item.","engines":{"node":">=18"},"license":"UNLICENSED","main":"server.js","name":"orders-customer-owner-apps","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
